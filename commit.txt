@@ -1,0 +1,35 @@
+commit c1737f4fb4a0adc3f85a65f6d676c72183eb51cf
+Author: vicente <vincent_97@live.com.mx>
+Date:   Mon Nov 17 20:16:52 2014 -0600
+
+    Portafolio
+
+commit c31fbe3b19361ec6769c8ccb463b58d412ec70b8
+Author: vicente <vincent_97@live.com.mx>
+Date:   Mon Nov 17 20:16:13 2014 -0600
+
+    presentacion
+
+commit 24bcb6e392dbd6548cd2015d7492fa8359defc7d
+Author: vicente <vincent_97@live.com.mx>
+Date:   Mon Nov 17 20:15:02 2014 -0600
+
+    redes sociales
+
+commit 3da5c6d9bdce03fdfdeccbd654ba2e765b8d79eb
+Author: vicente <vincent_97@live.com.mx>
+Date:   Mon Nov 17 20:13:10 2014 -0600
+
+    Perfil web escrito
+
+commit dc71a52a562d6c26714c94c164810863c25df5f1
+Author: vicente <vincent_97@live.com.mx>
+Date:   Mon Nov 17 20:11:00 2014 -0600
+
+    subi foto de perfil y nombre
+
+commit c28d726f62a04c5a54b8f5ba78eb6517d4bb308c
+Author: vicente <vincent_97@live.com.mx>
+Date:   Mon Nov 17 20:07:46 2014 -0600
+
+    estos son los archivos base
